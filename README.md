@@ -44,7 +44,8 @@
 <p align="left">
 	
 <h4 align="left">Programming Languages:</h4>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -123,6 +124,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
+<br/>
+<br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshan-yakhwis&show_icons=true&locale=en&layout=compact" alt="dilshan-yakhwis" /></p>
 
