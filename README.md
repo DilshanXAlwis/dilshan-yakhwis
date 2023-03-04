@@ -1,6 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h2 align="center">Dilshan Yakh Alwis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 <h3 align="center">I'm a passionate Ethical Hacker from Sri Lanka.</h3>
-<h4 align="center">Undergraduate Cyber Security</h4>
+	<h4 align="center">Undergraduate Cyber Security</h4>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=DilshanAlwis" alt="https://twitter.com/dilshan_yakhwis" />
