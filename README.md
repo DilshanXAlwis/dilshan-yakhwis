@@ -1,21 +1,30 @@
-<h1 align="center">Hi 👋, I'm Dilshan Yakh Alwis</h1>
-<h3 align="center">A passionate Ethical Hacker from Sri Lanka</h3>
+<h2 align="center">Dilshan Yakh Alwis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
+<h3 align="center">I'm a passionate Ethical Hacker from Sri Lanka.</h3>
+<h4 align="center">Undergraduate Cyber Security</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-yakhwis&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-yakhwis" /> </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=DilshanAlwis" alt="https://twitter.com/dilshan_yakhwis" />
+	<img src="https://img.shields.io/twitter/follow/dilshan_yakhwis?label=Follow" alt=""></a>
+	<img src="https://img.shields.io/github/followers/dilshan-yakhwis?label=Follow&style=social" alt="Github" />
+	<a href="https://www.linkedin.com/in/dilshan-alwis/">
+	<img src="https://img.shields.io/badge/-Dilshan Alwis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshan-alwis/" alt="https://www.linkedin.com/in/dilshan-alwis/" /></a>
+	<img src="https://img.shields.io/github/stars/AshenWijesingha?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
+</p>
+</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan-yakhwis" alt="dilshan-yakhwis" /></a> </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
+</p>
 
-<p align="left"> <a href="https://twitter.com/dilshan_yakhwis" target="blank"><img src="https://img.shields.io/twitter/follow/dilshan_yakhwis?logo=twitter&style=for-the-badge" alt="dilshan_yakhwis" /></a> </p>
-
-- 🔭 I’m currently working on **something cool 💡**
+- 🔭 I’m currently working on **Something Cool 💡**
 
 - 🌱 I’m currently learning **New Techs & Recreating 🚧**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 💬 Ask me about **Burp Suite, N-map, Metasploit**
+- 💬 Ask me about **Burp Suite, N-map, Metasploit & Kali Linux**
 
-- 📫 How to reach me **mrdilshanyakhalwis@gmail.com**
+- 📫 How to reach me **@mrdilshanyakhalwis**
 
 - ⚡ Fun fact **Spiritual Awakening**
 
