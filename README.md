@@ -17,18 +17,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
 </p>
 
-- 🔭 I’m currently working on **Something Cool 💡**
-
-- 🌱 I’m currently learning **New Techs & Recreating 🚧**
-
-- 👯 I’m looking to collaborate on **New Projects**
-
-- 💬 Ask me about **Burp Suite, N-map, Metasploit & Kali Linux**
-
-- 📫 How to reach me **@mrdilshanyakhalwis**
-
-- ⚡ Fun fact **Spiritual Awakening**
-
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <h3 align="left">Connect with me:</h3>
@@ -101,22 +89,16 @@
 	<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-
-<h4 align="left">Framework:</h4>
+<br/>
+<br/>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-
-<h4 align="left">Software:</h4>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-<h4 align="left">Game Engines:</h4>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<h4 align="left">Other:</h4>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
