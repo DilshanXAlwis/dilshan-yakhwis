@@ -100,6 +100,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <br/>
+
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
