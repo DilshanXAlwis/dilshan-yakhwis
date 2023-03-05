@@ -94,10 +94,24 @@
 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 &nbsp;<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-illustrator--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-indesign--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-after-effects--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-lightroom--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-dreamweaver--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-flash--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-audition.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-bridge--v1.png"/></a>
+&nbsp;<a href="#" target="_blank"> 
+	<img src="https://img.icons8.com/color/50/000000/adobe-flash--v2.png"/></a> 
 &nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
