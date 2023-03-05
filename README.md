@@ -38,6 +38,10 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a href="https://code.visualstudio.com/download" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
