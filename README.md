@@ -7,8 +7,8 @@
 	<img src="https://komarev.com/ghpvc/?username=DilshanAlwis" alt="https://twitter.com/dilshan_yakhwis" />
 	<img src="https://img.shields.io/twitter/follow/dilshan_yakhwis?label=Follow" alt=""></a>
 	<img src="https://img.shields.io/github/followers/dilshan-yakhwis?label=Follow&style=social" alt="Github" />
-	<a href="https://www.linkedin.com/in/dilshan-alwis/">
-	<img src="https://img.shields.io/badge/-Dilshan Alwis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshan-alwis/" alt="https://www.linkedin.com/in/dilshan-alwis/" /></a>
+	<a href="https://www.linkedin.com/in/mr-dilshan-yakh-alwis/">
+	<img src="https://img.shields.io/badge/-Dilshan Alwis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-dilshan-yakh-alwis/" alt="https://www.linkedin.com/in/mr-dilshan-yakh-alwis/" /></a>
 </p>
 <br/>
 </h2>
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dilshan_yakhwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilshan_yakhwis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dilshan-alwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan-alwis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mr-dilshan-yakh-alwis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan-alwis" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alphacypher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alphacypher" height="30" width="40" /></a>
 <a href="https://fb.com/mr.dilshan.alwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.dilshan.alwis" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_dilshan_alwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_dilshan_alwis" height="30" width="40" /></a>
